@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yahjeetae.damaru.nl/sitemap.xml
